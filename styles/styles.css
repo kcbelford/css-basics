@@ -1,0 +1,6 @@
+* {box-sizing: border-box;}
+.opening {color: red;}
+img {
+  width: 50%;
+  border: 5px solid LightSteelBlue;
+}
